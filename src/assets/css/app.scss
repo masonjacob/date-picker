@@ -1,0 +1,30 @@
+/*.app {
+}
+*/
+.cards {
+    width: 90vw;
+    display: grid;
+    place-items: center;
+}
+  //grid-template-columns: repeat(auto-fit, minmax(30vh, 1fr));
+
+.filter-container {
+  text-align: center;
+}
+
+.filter-container button {
+  margin: 0.5rem 1rem;
+  min-width: 5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: transparent;
+  color: rgb(65, 98, 168);
+  border-radius: 1rem;
+  border: 2px solid rgb(65, 98, 168);
+  font-weight: bold;
+  cursor: pointer;
+}
+button.active {
+  background: rgb(65, 98, 168);
+  color: white;
+}
