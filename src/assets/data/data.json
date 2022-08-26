@@ -1,143 +1,143 @@
 [
     {
-        "id": 0,
-        "activity": "Scrapbooking",
-        "tags": "all, romantic, relaxing"
-    },
-    {
         "id": 1,
         "activity": "At Home Movie",
-        "tags": "all, indoor, relaxing"
+        "tags": "[\"Indoor\", \"Relaxing\"]"
     },
     {
         "id": 2,
-        "activity": "Movie Theater",
-        "tags": "all, indoor, relaxing"
+        "activity": "Back 40",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 3,
-        "activity": "Picnic",
-        "tags": "all, outdoor, romantic, free"
+        "activity": "Beach",
+        "tags": "[\"Outdoor\", \"Relaxing\", \"Free\"]"
     },
     {
         "id": 4,
-        "activity": "Beach",
-        "tags": "all, outdoor, relaxing, free"
+        "activity": "Besos Bistro",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 5,
         "activity": "Biking",
-        "tags": "all, outdoor, physical, free"
+        "tags": "[\"Outdoor\", \"Physical\", \"Free\"]"
     },
     {
         "id": 6,
-        "activity": "Hiking",
-        "tags": "all, outdoor, physical, free"
+        "activity": "Crazy Burger",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 7,
-        "activity": "Volleyball",
-        "tags": "all, outdoor, physical, free"
+        "activity": "El Tapatio Mexican Resturant ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 8,
-        "activity": "Rock climbing",
-        "tags": "all, outdoor, physical, free"
+        "activity": "Gregg's Resturant ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 9,
-        "activity": "Swimming",
-        "tags": "all, outdoor, physical, free"
+        "activity": "Hiking",
+        "tags": "[\"Outdoor\", \"Physical\", \"Free\"]"
     },
     {
         "id": 10,
-        "activity": "Newport",
-        "tags": "all, outdoor, romantic, free"
+        "activity": "Jamestown",
+        "tags": "[\"Outdoor\", \"Romantic\", \"Free\"]"
     },
     {
         "id": 11,
-        "activity": "Jamestown",
-        "tags": "all, outdoor, romantic, free"
+        "activity": "Meriitage Resturant ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 12,
-        "activity": "Providence",
-        "tags": "all, outdoor, romantic, free"
+        "activity": "Movie Theaters",
+        "tags": "[\"Indoor\", \"Relaxing\"]"
     },
     {
         "id": 13,
-        "activity": "Gregg's Resturant ",
-        "tags": "all, restaurant"
+        "activity": "Muse Tavern ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 14,
-        "activity": "TLC",
-        "tags": "all, restaurant"
+        "activity": "Newport",
+        "tags": "[\"Outdoor\", \"Romantic\", \"Free\"]"
     },
     {
         "id": 15,
-        "activity": "Back 40",
-        "tags": "all, restaurant"
+        "activity": "Not Your Average Joes",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 16,
-        "activity": "Crazy Burger",
-        "tags": "all, restaurant"
+        "activity": "Picnic",
+        "tags": "[\"Outdoor\", \"Romantic\", \"Free\"]"
     },
     {
         "id": 17,
-        "activity": "Not Your Average Joes",
-        "tags": "all, restaurant"
+        "activity": "Providence",
+        "tags": "[\"Outdoor\", \"Romantic\", \"Free\"]"
     },
     {
         "id": 18,
-        "activity": "Texas Roadhouse ",
-        "tags": "all, restaurant"
+        "activity": "Red Parrot ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 19,
-        "activity": "Tavern in the Square",
-        "tags": "all, restaurant"
+        "activity": "Rock climbing",
+        "tags": "[\"Outdoor\", \"Physical\", \"Free\"]"
     },
     {
         "id": 20,
-        "activity": "Muse Tavern ",
-        "tags": "all, restaurant"
+        "activity": "Scrapbooking",
+        "tags": "[\"Romantic\", \"Relaxing\"]"
     },
     {
         "id": 21,
-        "activity": "Red Parrot ",
-        "tags": "all, restaurant"
+        "activity": "Swimming",
+        "tags": "[\"Outdoor\", \"Physical\", \"Free\"]"
     },
     {
         "id": 22,
-        "activity": "Troop Resturant ",
-        "tags": "all, restaurant"
+        "activity": "Tavern in the Square",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 23,
-        "activity": "Wickford on the Water",
-        "tags": "all, restaurant"
+        "activity": "Texas Roadhouse ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 24,
-        "activity": "Meriitage Resturant ",
-        "tags": "all, restaurant"
+        "activity": "The Coastal Cabin Resturant ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 25,
-        "activity": "Besos Bistro",
-        "tags": "all, restaurant"
+        "activity": "TLC",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 26,
-        "activity": "El Tapatio Mexican Resturant ",
-        "tags": "all, restaurant"
+        "activity": "Troop Resturant ",
+        "tags": "[\"Restaurant\"]"
     },
     {
         "id": 27,
-        "activity": "The Coastal Cabin Resturant ",
-        "tags": "all, restaurant"
+        "activity": "Volleyball",
+        "tags": "[\"Outdoor\", \"Physical\", \"Free\"]"
+    },
+    {
+        "id": 28,
+        "activity": "Wickford on the Water",
+        "tags": "[\"Restaurant\"]"
     }
 ]
 

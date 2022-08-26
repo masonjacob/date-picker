@@ -19,7 +19,6 @@ function App() {
     let tags = [];
     cards.forEach((card) => {
       let obj = JSON.parse(card.tags);
-      console.log(obj);
       obj.forEach((tag) => {
         if (!tags.includes(tag)) {
           tags.push(tag);
@@ -32,12 +31,11 @@ function App() {
 
   const fetchData = async () => {
     const data = require("../assets/data/data.json");
-    console.log(data);
     setCards(data);
     setFilter(data);
     getTags(data);
   }
- 
+
   return (
     <div className="app">
       <Filter
@@ -59,3 +57,16 @@ function App() {
 }
 
 export default App;
+
+
+/*  Helpful Function to sort by value associated with a certain key
+
+function sortByKey(object, key) {
+    return object.sort(function(a, b) {
+        var x = a[key]; var y = b[key];
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
+}
+
+  */
+

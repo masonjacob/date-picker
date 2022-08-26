@@ -11,13 +11,9 @@ const Card = ({card}) => {
     exit={{opacity: 0}}
     transition={{duration: 0.5}}>
       <div className="card-header">
-        <img className="card-image" src={require(`../assets/img/${card.src}/image.jpg`)} alt=""/>
       </div>
       <div className = "card-body">
-        <h1 className="card-title">{card.name}</h1>
-        <p>
-          {card.text}
-        </p>
+        <h1 className="card-title">{card.activity}</h1>
       </div>
     </motion.div>
   )
